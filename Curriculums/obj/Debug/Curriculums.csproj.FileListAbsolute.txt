@@ -1,0 +1,101 @@
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Interop.XDocsDesigner.dll
+C:\Users\Usuario\Desktop\Curriculums\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Interop.XDocsDesigner.dll
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\ferna\Desktop\ver. 5\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\ferna\Desktop\ver. 5\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\ver. 5\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\ferna\Desktop\ver. 5\Curriculums\obj\Debug\Curriculums.FormAutor.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\ferna\Desktop\ver. 6\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\ver. 6\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.FormAutor.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\ver. 6\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Interop.XDocsDesigner.dll
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.FormAutor.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\Usuario\Desktop\Ing Software\ver. 7\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.FormAutor.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.exe.config
+C:\Users\ferna\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\Curriculums\Curriculums\bin\Debug\Curriculums.pdb
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.ResolveComReference.cache
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.FormAutor.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Control_Usuarios.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Dependiente.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Loging.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Form_Usuario.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.exe
+C:\Users\ferna\Desktop\Curriculums\Curriculums\obj\Debug\Curriculums.pdb
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.FormCambiarContraseña.resources
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\bin\Debug\Properties\Resources.resx
+C:\Users\Usuario\Desktop\Ing Software\Curriculums\Curriculums\obj\Debug\Curriculums.Properties.Resources.resources
